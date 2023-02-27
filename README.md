@@ -1,4 +1,4 @@
-# f33_tue_project1
+# Online Bookstore Project
 
 This group project of an online bookstore was prepared as a final work on the study of CSS3.
 
